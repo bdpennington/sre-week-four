@@ -5,4 +5,4 @@ memoryLimit: "4Gi"
 upcommerce:
   image: bdpennington/upcommerce:v3
 canary:
-  image: bdpennington/upcommerce:v3
+  image: uonyeka/canary:linux-arm64
